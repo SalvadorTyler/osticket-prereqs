@@ -49,13 +49,14 @@ next you're going to log into the new virtual machine, go to remote desktop, cli
 <br />
 </p>
 <p>
-Now that you've logged in you're going to enable IIS by going to control panel and navigating to, uninstall a program, then click turn window features on or off on the left and side. and check the box next to internet information services, then click ok. 
+Now that you've logged in you're going to enable IIS by going to control panel and navigating to, uninstall a program, then click turn window features on or off on the left hand side. and check the box next to internet information services, then click ok. 
 </p>
 <img src="https://imgur.com/6kTvgZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 
 </p>
+now that thats done you're going to go to this link https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 in here i've provided everything you'll need to download to get osticket up and running. for now we're going to download webplatforminstaller.
 <img src="https://imgur.com/qghGPBZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
@@ -68,32 +69,27 @@ Now that you've logged in you're going to enable IIS by going to control panel a
 <p>
 </p>
 <p>
-</p>
-<img src="https://imgur.com/3bJq2lC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> next open  webplatforminstaller and in the search bar type in MySQL 5.5, click add, then search for php and add php 5.6.31, php 7.0.33 (x86), php 7.1.29 (x86), php 7.2.26 (x86), 7.3.25 (x86) then click install at the bottom
+<img src="https://imgur.com/tfacBWM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p>
 </p>
 <p>
-</p>tiutaeughaliurghaleiughalrgn
-<img src="https://imgur.com/qghGPBZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> Afterwards you'll choose a password for MySQL make sure you remember this for later, then click continue and accept.
+<img src="https://imgur.com/sGgQHcd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <p>
 </p>
 <p>
-</p>
-<img src="https://imgur.com/wfaIL5A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> Now we are gonna go back doc from the link I provided and download PHPmanager, vcreditlist, and install them after. Then download osticket 1.15.8 for the doc, and extract the file. once you've done that open the osticket folder and copy the upload folder and paste it inside the C:\inetpub\wwwroot folder. Now you're gonna want to rename it to osTicket.
+<img src="https://imgur.com/NTpRq2S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p>
 </p>
 <p>
 </p>
-<img src="https://imgur.com/4gOUn8l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FKhlPQR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p>
-<p>Continue Setting up osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1 Click “Install Now!”
-Congratulations, hopefully it is installed with no errors!
-Clean up
-Delete: C:\inetpub\wwwroot\osTicket\setup
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
-<img src="https://imgur.com/mOAXRWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> 
+<img src="https://imgur.com/1Bz3gvM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
