@@ -87,9 +87,14 @@ now that thats done you're going to go to this link https://drive.google.com/dri
 <p>
 </p>
 <p>
-</p>
-<img src="https://imgur.com/FKhlPQR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> Ok now that we've done that we're gonna open IIS and click restart on the right hand side, Then navigate to sites on the left hand side, default web sitesand osticket. Now click browse .80 on the right side.
+<img src="https://imgur.com/FqaRn1E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<p>
-<p> 
-<img src="https://imgur.com/1Bz3gvM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+If done correctly it should take to a website that looks like this.
+<p> <img src=https://imgur.com/3n6zxEL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+<p> once you've done that open phpmanger in IIS and click enable or disable an extension, Then enable php_intl.dll and php_opcache.dll and refresh the osticket site.
+<img src="https://imgur.com/SzPkrMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
