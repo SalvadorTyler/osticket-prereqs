@@ -97,4 +97,34 @@ If done correctly it should take to a website that looks like this.
   
   
 <p> once you've done that open phpmanger in IIS and click enable or disable an extension, Then enable php_intl.dll and php_opcache.dll and refresh the osticket site.
+  
+<p>
 <img src="https://imgur.com/SzPkrMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+ <p> Next you're going to go into file explorer and go to C:\inetpub\wwwroot\osticket\include and rename ost-sampleconfig.php to ost-config.php
+    
+<p>
+<img src="https://imgur.com/l785aFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  Now right click on ost-config.php, go to properties, security, advanced, click disable inheritance. Remove all inherited permissions then click add, select a principle, type in everyone click ok then click full control and ok.
+  
+<p>
+<img src="https://imgur.com/5NfHmEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  Ok now its time to setup osticket in the browser, fill out all the information necessary this can be whatever.
+  
+<p>
+<img src="https://imgur.com/moYUTWX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+   when you get to MySQL database you'll download HeidiSQL from the download folder. Once you install HeidiSQL, launch it and click new, The password will be what you used for MySQL. Proceed to open, once open right click on unnamed and click create new and database, The name for the database will be osTicket. Once you've done that you can close out of that and type in osTicket in MqDQL databe on the osticket browser. now simply click install now
+  
+  
+<p>
+<img src="https://imgur.com/TNaQUlF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+  Just a few loose ends to clean upso now we will navigate to C:\inetpub\wwwwroot\osticket and delete setup. Then go to include\ost-config.php and reset the permissions to read  and read and execute only. 
+  
+  now you've finished the installation process of osTicket. in the next 
