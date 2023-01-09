@@ -127,4 +127,4 @@ If done correctly it should take to a website that looks like this.
   
   Just a few loose ends to clean up so now we will navigate to C:\inetpub\wwwwroot\osticket and delete setup. Then go to include\ost-config.php and reset the permissions to read  and read and execute only. 
   
-  Congrats you've finished the installation process of osTicket.
+  Congrats you've finished the installation process of osTicket. Now you can move on to osTicket: Post-Installation Configuration.
