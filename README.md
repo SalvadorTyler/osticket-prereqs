@@ -63,8 +63,6 @@ now that thats done you're going to go to this link https://drive.google.com/dri
 <p>
 
 </P>
-<img src="https://imgur.com/38ODTQP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 <p>
 </p>
