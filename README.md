@@ -116,7 +116,7 @@ If done correctly it should take you to a website that looks like this.
 <img src="https://imgur.com/moYUTWX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   
-  When you get to MySQL database you'll download HeidiSQL from the download folder. Once you install HeidiSQL, launch it and click new, The password will be what you used for MySQL. Proceed to open, once open right click on unnamed and click create new and database, The name for the database will be osTicket. Once you've done that you can close out of that and type in osTicket in MqDQL databe on the osticket browser. now simply click install now
+  When you get to MySQL database you'll download HeidiSQL from the download folder. Once you install HeidiSQL, launch it and click new, The password will be what you used for MySQL. Proceed to open, once open right click on unnamed and click create new and database, The name for the database will be osTicket. Once you've done that you can close out of that and type in osTicket in MySQL database on the osticket browser. now simply click install now
   
   
 <p>
