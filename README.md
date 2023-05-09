@@ -85,12 +85,12 @@ now that thats done you're going to go to this link https://drive.google.com/dri
 <p>
 </p>
 <p>
-</p> Ok now that we've done that we're gonna open IIS and click restart on the right hand side, Then navigate to sites on the left hand side, default web sitesand osticket. Now click browse .80 on the right side.
+</p> Ok now that we've done that we're gonna open IIS and click restart on the right hand side, Then navigate to sites on the left hand side, default web sites and osticket. Now click browse .80 on the right side.
 <img src="https://imgur.com/FqaRn1E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
-If done correctly it should take to a website that looks like this.
+If done correctly it should take you to a website that looks like this.
 <p> <img src=https://imgur.com/3n6zxEL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   
