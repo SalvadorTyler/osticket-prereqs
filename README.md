@@ -79,7 +79,7 @@ now that thats done you're going to go to this link https://drive.google.com/dri
 <p>
 </p>
 <p>
-</p> Now we are gonna go back doc from the link I provided and download PHPmanager, vcreditlist, and install them after. Then download osticket 1.15.8 for the doc, and extract the file. once you've done that open the osticket folder and copy the upload folder and paste it inside the C:\inetpub\wwwroot folder. Now you're gonna want to rename it to osTicket.
+</p> Now we are gonna go back doc from the link I provided and download PHPmanager, vcreditlist, and install them after. Then download osticket 1.15.8 from the doc, and extract the file. once you've done that open the osticket folder and copy the upload folder and paste it inside the C:\inetpub\wwwroot folder. Now you're gonna want to rename it to osTicket.
 <img src="https://imgur.com/NTpRq2S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p>
