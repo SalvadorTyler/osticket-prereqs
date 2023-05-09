@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-Ok, so in this tutorial i will explain how to setup and install osticket a ticketing system. First we will have to create a Virtual machine using the Microsoft Azure portal. We are using a VM in order to protect our physical machine just in case something breaks.
+In this tutorial i will explain how to setup and install osticket a ticketing system. First we will have to create a Virtual machine using the Microsoft Azure portal. We are using a VM in order to protect our physical machine just in case something breaks.
   
  <img src="https://imgur.com/eQMK8y8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
